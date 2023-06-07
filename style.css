@@ -1,0 +1,13 @@
+
+*{margin: 0; padding: 0;}
+
+.cabecalho {background-image: url(fundo.jpg);
+display: flex; justify-content: space-around;
+
+}
+
+.site {background-image: linear-gradient(rgb(237, 128, 146), rgb(0, 255, 213))}
+.site-lista {display: flex;justify-content: space-around; align-items: center;}
+.site-lista-imagem {width: 40%;}
+
+.site-lista-imagem {width: 40%;}
