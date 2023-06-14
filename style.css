@@ -10,4 +10,20 @@ display: flex; justify-content: space-around;
 .site-lista {display: flex;justify-content: space-around; align-items: center;}
 .site-lista-imagem {width: 40%;}
 
-.site-lista-imagem {width: 40%;}
+.site-lista-imagem2 {width: 40%;}
+
+.site-lista-imagem3 {width: 60%;}
+
+.site-textos { justify-content: space-around; align-items: center;}
+
+.site-texto { background-color: antiquewhite;}
+
+.imagemfinal {width: 100%;}
+
+.rodape-imagem {width: 10%;}
+
+.rodape { background-color: aquamarine;
+
+text-align: center;
+justify-content: center; }
+
